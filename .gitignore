@@ -1,0 +1,5 @@
+.tmp
+/dist
+_app_scaffolds
+build-*.sh
+postproc-*.sh
