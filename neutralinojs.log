@@ -1,0 +1,36 @@
+INFO 2023-12-14 21:28:46,144 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:17 matko@unknown-host
+INFO 2023-12-14 21:29:12,231 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:17 matko@unknown-host
+INFO 2023-12-14 21:29:40,329 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:17 matko@unknown-host
+ERROR 2023-12-14 21:29:40,860 NE_RS_UNBLDRE: Unable to load application resource file /resources/js/neutralino.js api/debug/debug.cpp:20 matko@unknown-host
+INFO 2023-12-14 21:31:59,134 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:17 matko@unknown-host
+ERROR 2023-12-14 21:31:59,394 NE_RS_UNBLDRE: Unable to load application resource file /resources/js/neutralino.js api/debug/debug.cpp:20 matko@unknown-host
+INFO 2023-12-14 21:32:28,061 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:17 matko@unknown-host
+INFO 2023-12-14 21:32:33,043 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:17 matko@unknown-host
+ERROR 2023-12-14 21:32:33,346 NE_RS_UNBLDRE: Unable to load application resource file /resources/js/neutralino.js api/debug/debug.cpp:20 matko@unknown-host
+INFO 2023-12-14 21:32:54,874 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:17 matko@unknown-host
+ERROR 2023-12-14 21:32:55,129 NE_RS_UNBLDRE: Unable to load application resource file /resources/js/neutralino.js api/debug/debug.cpp:20 matko@unknown-host
+INFO 2023-12-14 21:33:34,455 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:17 matko@unknown-host
+ERROR 2023-12-14 21:33:34,770 NE_RS_UNBLDRE: Unable to load application resource file /resources/js/neutralino.js api/debug/debug.cpp:20 matko@unknown-host
+INFO 2023-12-14 21:34:10,005 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:17 matko@unknown-host
+ERROR 2023-12-14 21:34:10,325 NE_RS_UNBLDRE: Unable to load application resource file /resources/js/neutralino.js api/debug/debug.cpp:20 matko@unknown-host
+INFO 2023-12-14 21:34:33,207 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:17 matko@unknown-host
+ERROR 2023-12-14 21:34:33,544 NE_RS_UNBLDRE: Unable to load application resource file /resources/js/neutralino.js api/debug/debug.cpp:20 matko@unknown-host
+INFO 2023-12-14 21:35:58,176 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:17 matko@unknown-host
+ERROR 2023-12-14 21:35:58,460 NE_RS_UNBLDRE: Unable to load application resource file /resources/js/neutralino.js api/debug/debug.cpp:20 matko@unknown-host
+INFO 2023-12-14 21:37:35,157 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:17 matko@unknown-host
+ERROR 2023-12-14 21:37:35,442 NE_RS_UNBLDRE: Unable to load application resource file /resources/js/neutralino.js api/debug/debug.cpp:20 matko@unknown-host
+INFO 2023-12-14 21:39:36,899 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:17 matko@unknown-host
+ERROR 2023-12-14 21:39:37,193 NE_RS_UNBLDRE: Unable to load application resource file /resources/js/neutralino.js api/debug/debug.cpp:20 matko@unknown-host
+INFO 2023-12-14 21:40:31,199 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:17 matko@unknown-host
+INFO 2023-12-14 21:41:24,586 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:17 matko@unknown-host
+INFO 2023-12-14 21:41:46,145 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:17 matko@unknown-host
+INFO 2023-12-14 21:41:49,929 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:17 matko@unknown-host
+INFO 2023-12-14 21:42:52,035 Reloading the application... api/debug/debug.cpp:17 matko@unknown-host
+INFO 2023-12-14 21:43:00,100 Reloading the application... api/debug/debug.cpp:17 matko@unknown-host
+INFO 2023-12-14 21:43:02,559 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:17 matko@unknown-host
+INFO 2023-12-14 21:43:32,726 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:17 matko@unknown-host
+INFO 2023-12-14 21:43:38,779 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:17 matko@unknown-host
+INFO 2023-12-14 21:44:18,838 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:17 matko@unknown-host
+INFO 2023-12-14 21:44:36,783 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:17 matko@unknown-host
+INFO 2023-12-14 21:44:40,000 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:17 matko@unknown-host
+INFO 2023-12-14 21:45:21,527 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:17 matko@unknown-host
