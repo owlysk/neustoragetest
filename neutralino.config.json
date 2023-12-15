@@ -17,7 +17,8 @@
         "app.*",
         "os.*",
         "debug.log",
-        "storage.*"
+        "storage.*",
+        "filesystem.*"
     ],
     "globalVariables": {
     },
@@ -42,7 +43,7 @@
             "globalVariables": {
                 "TEST": "Test value browser"
             },
-            "nativeBlockList": ["filesystem.*"]
+            "nativeBlockList": [""]
         },
         "cloud": {
             "url": "/resources/#cloud",
@@ -52,7 +53,7 @@
             "width": 800,
             "height": 500,
             "args": "--user-agent=\"Neutralinojs chrome mode\"",
-            "nativeBlockList": ["filesystem.*", "os.*"]
+            "nativeBlockList": ["os.*"]
         }
     },
     "cli": {
